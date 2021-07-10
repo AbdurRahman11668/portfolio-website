@@ -1,0 +1,171 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 600;
+  color: orange;
+  margin-top: 0;
+  padding-top: 0;
+}
+.title {
+  font-size: 40px;
+  font-weight: 600;
+  margin: 0;
+  padding-bottom: 0;
+}
+p {
+  color: gray;
+  font-size: 14px;
+  font-weight: 500;
+}
+.left {
+  padding-left: 170px;
+}
+.para {
+  margin-bottom: 50px;
+}
+
+.header {
+  background-image: url("img/header-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 800px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.top {
+  padding-top: 280px;
+}
+.top2 {
+  padding-top: 150px;
+}
+.top2 img {
+  width: 85%;
+}
+.button {
+  text-decoration: none;
+  padding: 12px 30px;
+  background-image: linear-gradient(45deg, gold, orange);
+  border: none;
+  font-size: 14px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700px;
+  margin-left: 170px;
+}
+.resume {
+  background-image: url("img/biography-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 700px;
+}
+.heading {
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+.des {
+  line-height: 1.6;
+  padding-bottom: 40px;
+}
+.button2 {
+  text-decoration: none;
+  padding: 12px 35px;
+  background-image: linear-gradient(45deg, gold, orange);
+  border: none;
+  font-size: 14px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700px;
+}
+.peter {
+  width: 75%;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.top3 {
+  padding-top: 140px;
+}
+.latest-work {
+  background-image: url("img/latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 550px;
+  text-align: center;
+}
+.work-title {
+  text-align: center;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 90px;
+  font-size: 35px;
+  font-weight: 600;
+}
+.work-img {
+  width: 20%;
+  padding-right: 30px;
+}
+.client {
+  background-image: url("img/footer-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 700px;
+  text-align: center;
+  margin: 0px;
+  padding-top: 150px;
+  padding-bottom: 0;
+}
+.client h2 {
+  margin-bottom: 70px;
+}
+.name {
+  margin-bottom: 15px;
+}
+.bruce {
+  font-size: 20px;
+  margin: 20px 0 5px 0;
+  padding: 0;
+}
+.founder {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  color: rgb(179, 178, 178);
+}
+.description p {
+  font-size: 17px;
+  padding: 30px 0 70px 0;
+}
+.message {
+  padding: 50px 60px;
+  border-radius: 10px;
+  background-color: Tomato;
+  width: 40%;
+  margin: auto;
+}
+.mess {
+  margin-top: 0;
+  color: lightgray;
+  font-size: 15px;
+}
+.email {
+  font-size: 22px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+.email:hover {
+  color: lightgray;
+}
+footer {
+  text-align: center;
+  padding-bottom: 20px;
+}
